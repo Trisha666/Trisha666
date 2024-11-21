@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trisha666
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me my email 
 - 😄 Pronouns: She
